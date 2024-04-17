@@ -1,7 +1,9 @@
 
-from queue import Queue
-b= Queue(maxsize=4)
-print(b.bsi)
-fruits.append('aline')
-fruits.append('mutesi')
-fruits.append('nancy')
+
+from collections import deque
+fruits = deque()
+fruits.append('mango')
+fruits.append('banana')
+fruits.append('pineapple')
+
+print(fruits)

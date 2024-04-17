@@ -1,5 +1,5 @@
 # DATA SCIENCE
-
+clear
 ## PYTHON STACK AND TUPLES EXAMPLES
 
 This project demostrate examples of using stacks and tuples in python

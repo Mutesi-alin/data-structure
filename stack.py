@@ -15,3 +15,4 @@ name.remove("aline")
 print(name)
 name.pop()
 print(name)
+
