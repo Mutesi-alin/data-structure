@@ -8,7 +8,8 @@ it covers basic operations, common use cases, and best practices.
  added at the start of the list or removed at the end of the list.
 tuple are immutable
 
-TUPLESis
+TUPLES
+
 Tuples are collections of ordered, immutable data structures.
 In addition to accessing individual elements, you can iterate over tuples using a for loop.
 This makes it easy to perform operations on each component in turn.
