@@ -1,10 +1,21 @@
 #DATA SCIENCE
 
-##PYTHON STACK AND TUPLES EXAMPLES
+STACK 
 
-This project demonstrates examples of using stacks and tuples in Python
+This project demonstrates examples of using stacks  in Python
 it covers basic operations, common use cases, and best practices.
- Stacks are lists of elements where new elements are added at the start of the list or removed at the end of the list.
-tuple are immutable.
-In this pull request, I made several improvements related to stack and tuple.
-In this work,  I added a unit test to cover push, and pop operators in the stack and merged two tuples.
+ Stacks are lists of elements where new elements are
+ added at the start of the list or removed at the end of the list.
+tuple are immutable
+
+TUPLESis
+Tuples are collections of ordered, immutable data structures.
+In addition to accessing individual elements, you can iterate over tuples using a for loop.
+This makes it easy to perform operations on each component in turn.
+
+ QUEUES
+ 
+  a queue is a linear data structure that
+ follows the First In First Out (FIFO) principle.
+ This means that the least recently added item is removed first
+
